@@ -1,0 +1,9 @@
+Netsh winsock reset
+Netsh int ip reset
+Ipconfig /release
+ip/config /renew
+Ipconfig /flushdns
+
+
+!UNO ALLA VOLTA!
+!PREMERE INVIO DOPO L'INSERIMENTO!
